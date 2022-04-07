@@ -1,5 +1,5 @@
 # Hello World
-## A CPP program to render "Hello World".
+## A C++ program to render "Hello World".
 
 ### Screenshot:
 <div align="center">
